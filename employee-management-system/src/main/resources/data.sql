@@ -1,0 +1,10 @@
+INSERT INTO department (name) VALUES ('Administration');
+INSERT INTO department (name) VALUES ('Finance');
+INSERT INTO department (name) VALUES ('HR');
+INSERT INTO department (name) VALUES ('Operations');
+INSERT INTO department (name) VALUES ('IT');
+INSERT INTO department (name) VALUES ('Customer Support');
+INSERT INTO department (name) VALUES ('Sales');
+INSERT INTO department (name) VALUES ('Social Media');
+INSERT INTO department (name) VALUES ('Design');
+INSERT INTO department (name) VALUES ('Research and Development');

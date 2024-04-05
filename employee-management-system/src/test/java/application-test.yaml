@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: employee_management
+    password: employee_management
+    url: jdbc:h2:mem:employee_management;MODE=MYSQL
